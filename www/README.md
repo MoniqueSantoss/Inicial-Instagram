@@ -1,0 +1,1 @@
+Exemplo: ![Alt Text](./IMG/ex.png)
